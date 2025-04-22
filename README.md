@@ -41,12 +41,11 @@ SSIM measures the structural similarity between reconstructed and original image
 Measures the mean squared error between original and reconstructed images.
 
 **Statistical Results**:
-- Mean Error: 0.0136
-- Median Error: 0.0112
-- Standard Deviation: 0.0089
-- Minimum Error: 0.0017
-- Maximum Error: 0.0945
-
+- Mean Error: 0.0133
+- Median Error: 0.0110
+- Standard Deviation: 0.0088
+- Minimum Error: 0.0015
+- Maximum Error: 0.0935
 ## 🔍 Project Outputs and Observations
 
 ### 📊 Visualizations
