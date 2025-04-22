@@ -24,3 +24,25 @@ Our project consists of two primary components:
 - Symmetric inverse of the encoder
 - Reconstructing original image from encoded representation
 - Final layer: Sigmoid activation for pixel value normalization
+
+### 📏 Performance Evaluation Metrics
+
+#### 1. 📈 Structural Similarity Index (SSIM)
+SSIM measures the structural similarity between reconstructed and original images.
+
+**Statistical Results**:
+- Average SSIM: 0.7072
+- Median SSIM: 0.7252
+- SSIM Standard Deviation: 0.1422
+- Minimum SSIM: 0.1180
+- Maximum SSIM: 0.9857
+
+#### 2. 📉 Reconstruction Error
+Measures the mean squared error between original and reconstructed images.
+
+**Statistical Results**:
+- Mean Error: 0.0136
+- Median Error: 0.0112
+- Standard Deviation: 0.0089
+- Minimum Error: 0.0017
+- Maximum Error: 0.0945
