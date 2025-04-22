@@ -80,3 +80,12 @@ Our project includes the following visualizations:
 - 📈 Matplotlib
 - 🌈 Seaborn
 - 🖼️ Scikit-image
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔍 Code And Kaggle Link
+Project: [autoencoders-fashion-mnist.ipynb](https://github.com/omerfarukyuce/Autoencoders-Fashion-mnist/blob/main/autoencoders-fashion-mnist.ipynb)
+
+Kaggle: [🧥👜Autoencoders - Fashion MNIST🥾👖](https://www.kaggle.com/code/merfarukyce/autoencoders-fashion-mnist)
