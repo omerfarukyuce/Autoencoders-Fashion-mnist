@@ -71,3 +71,13 @@ Our project includes the following visualizations:
 - Image noise reduction
 - Feature extraction
 - Dimensionality reduction
+
+## 🛠️ Requirements
+- 🐍 Python 3.7+
+- 🧠 TensorFlow
+- 🔢 Keras
+- 📊 NumPy
+- 🐼 Pandas
+- 📈 Matplotlib
+- 🌈 Seaborn
+- 🖼️ Scikit-image
